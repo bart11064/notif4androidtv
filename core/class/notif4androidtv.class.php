@@ -19,7 +19,7 @@
 /* * ***************************Includes********************************* */
 require_once __DIR__  . '/../../../../core/php/core.inc.php';
 
-class template extends eqLogic {
+class notif4androidtv extends eqLogic {
     /*     * *************************Attributs****************************** */
 
 
@@ -106,7 +106,7 @@ class template extends eqLogic {
     /*     * **********************Getteur Setteur*************************** */
 }
 
-class templateCmd extends cmd {
+class notif4androidtvCmd extends cmd {
     /*     * *************************Attributs****************************** */
 
 
