@@ -1,16 +1,16 @@
 {
-	"id" : "template",
-	"name" : "Template",
-	"description" : "Plugin template pour la création de plugin",
+	"id" : "notif4androidtv",
+	"name" : "Notification Android TV",
+	"description" : "Plugin pour envoyer des notifications sur Android TV",
 	"licence" : "AGPL",
-	"author" : "Jeedom SAS",
-	"require" : "3.2",
+	"author" : "bart11064",
+	"require" : "3.3",
 	"category" : "programming",
 	"hasDependency" : false,
 	"hasOwnDeamon" : false,
 	"maxDependancyInstallTime" : 0,
-	"changelog" : "https://jeedom.github.io/plugin-template/#language#/changelog",
-	"documentation" : "https://jeedom.github.io/plugin-template/#language#/",
+	"changelog" : "",
+	"documentation" : "",
 	"link" : {
 		"forum":"Lien vers le forum",
 		"video" : "Lien vers une video"
